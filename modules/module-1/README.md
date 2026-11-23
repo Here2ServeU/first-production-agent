@@ -21,6 +21,11 @@ five questions it cannot answer yet. No changes to the agent today.
 There is no cost tracking, no logging, no limits and no checks of any kind.
 That's deliberate: it's exactly the state most first agents ship in.
 
+## Prerequisite: set up your machine
+
+New to Python, Git or VS Code? Watch the **[course setup playlist](https://youtube.com/playlist?list=PLJsx6ZsqoAKI&si=BvAxh4bO_ZlAWL0L)**
+first. It installs everything you need for every module, on macOS and Windows.
+
 ## Build it: run your first agent
 
 **1. Clone the course agent**

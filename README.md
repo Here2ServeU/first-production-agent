@@ -44,6 +44,12 @@ so you can always come back to a clean version of any module.
 
 ## Before you start
 
+### Prerequisite: install your tools first
+
+**[▶ Watch the setup playlist](https://youtube.com/playlist?list=PLJsx6ZsqoAKI&si=BvAxh4bO_ZlAWL0L)** before Module 1. It walks you through
+installing everything this course needs: Python 3, Git, VS Code, and the
+course's Python package, step by step on macOS and Windows.
+
 You need **Python 3**, **Git** and a terminal (the one inside VS Code is fine).
 
 **macOS**
