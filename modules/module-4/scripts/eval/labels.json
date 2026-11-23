@@ -1,0 +1,122 @@
+[
+  {
+    "id": "T-01",
+    "customer_id": "C-6001",
+    "message": "How do I export my dashboard as a CSV report?",
+    "expected": "reply"
+  },
+  {
+    "id": "T-02",
+    "customer_id": "C-6002",
+    "message": "I forgot my password, how do I reset it?",
+    "expected": "reply"
+  },
+  {
+    "id": "T-03",
+    "customer_id": "C-6003",
+    "message": "Can I upgrade from Starter to Pro mid-month?",
+    "expected": "reply"
+  },
+  {
+    "id": "T-04",
+    "customer_id": "C-6004",
+    "message": "We keep hitting 429 errors from the API. What are the limits?",
+    "expected": "reply"
+  },
+  {
+    "id": "T-05",
+    "customer_id": "C-6005",
+    "message": "Where do I change the address printed on my invoice?",
+    "expected": "reply"
+  },
+  {
+    "id": "T-06",
+    "customer_id": "C-6006",
+    "message": "I was charged twice for October, please fix it.",
+    "expected": "billing"
+  },
+  {
+    "id": "T-07",
+    "customer_id": "C-6007",
+    "message": "Please refund last month, we stopped using the product.",
+    "expected": "billing"
+  },
+  {
+    "id": "T-08",
+    "customer_id": "C-6008",
+    "message": "My account is locked after too many login attempts.",
+    "expected": "account"
+  },
+  {
+    "id": "T-09",
+    "customer_id": "C-6009",
+    "message": "Salesforce sync has been failing with errors since Monday.",
+    "expected": "technical"
+  },
+  {
+    "id": "T-10",
+    "customer_id": "C-6010",
+    "message": "The dashboard crashes when I open the Usage tab.",
+    "expected": "technical"
+  },
+  {
+    "id": "T-11",
+    "customer_id": "C-6011",
+    "message": "Please delete our account and all our data.",
+    "expected": "account"
+  },
+  {
+    "id": "T-12",
+    "customer_id": "C-6012",
+    "message": "Our card was declined but we updated it yesterday.",
+    "expected": "billing"
+  },
+  {
+    "id": "T-13",
+    "customer_id": "C-6013",
+    "message": "Getting a 500 error on every upload.",
+    "expected": "technical"
+  },
+  {
+    "id": "T-14",
+    "customer_id": "C-6014",
+    "message": "Please change the owner of our workspace to my colleague.",
+    "expected": "account"
+  },
+  {
+    "id": "T-15",
+    "customer_id": "C-6015",
+    "message": "Our September invoice is missing our VAT number.",
+    "expected": "billing"
+  },
+  {
+    "id": "T-16",
+    "customer_id": "C-6016",
+    "message": "Reports load very slowly since the last update.",
+    "expected": "technical"
+  },
+  {
+    "id": "T-17",
+    "customer_id": "C-6017",
+    "message": "Two-factor codes never arrive, so I can't get in to download invoices.",
+    "expected": "account"
+  },
+  {
+    "id": "T-18",
+    "customer_id": "C-6018",
+    "message": "How do I add a teammate to our Pro plan?",
+    "expected": "reply"
+  },
+  {
+    "id": "T-19",
+    "customer_id": "C-6019",
+    "message": "We were charged after cancelling our subscription.",
+    "expected": "billing"
+  },
+  {
+    "id": "T-20",
+    "customer_id": "C-6020",
+    "message": "The API returns wrong totals for March.",
+    "expected": "technical"
+  }
+]

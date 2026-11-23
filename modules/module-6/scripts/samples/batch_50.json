@@ -1,0 +1,252 @@
+[
+  {
+    "id": "T-001",
+    "customer_id": "C-6001",
+    "message": "I forgot my password. How do I reset it?"
+  },
+  {
+    "id": "T-002",
+    "customer_id": "C-6002",
+    "message": "What are the API rate limits? We just saw a 429."
+  },
+  {
+    "id": "T-003",
+    "customer_id": "C-6003",
+    "message": "Can I upgrade to the Business plan today?"
+  },
+  {
+    "id": "T-004",
+    "customer_id": "C-6004",
+    "message": "How do I change the address on our invoices?"
+  },
+  {
+    "id": "T-005",
+    "customer_id": "C-6005",
+    "message": "How do I export last quarter as a CSV report?"
+  },
+  {
+    "id": "T-006",
+    "customer_id": "C-6006",
+    "message": "I forgot my password. How do I reset it?"
+  },
+  {
+    "id": "T-007",
+    "customer_id": "C-6007",
+    "message": "What are the API rate limits? We just saw a 429."
+  },
+  {
+    "id": "T-008",
+    "customer_id": "C-6008",
+    "message": "I was charged twice this month. Please refund the duplicate $50 charge."
+  },
+  {
+    "id": "T-009",
+    "customer_id": "C-6009",
+    "message": "How do I change the address on our invoices?"
+  },
+  {
+    "id": "T-010",
+    "customer_id": "C-6010",
+    "message": "How do I export last quarter as a CSV report?"
+  },
+  {
+    "id": "T-011",
+    "customer_id": "C-6011",
+    "message": "I forgot my password. How do I reset it?"
+  },
+  {
+    "id": "T-012",
+    "customer_id": "C-6012",
+    "message": "What are the API rate limits? We just saw a 429."
+  },
+  {
+    "id": "T-013",
+    "customer_id": "C-6013",
+    "message": "Can I upgrade to the Business plan today?"
+  },
+  {
+    "id": "T-014",
+    "customer_id": "C-6014",
+    "message": "How do I change the address on our invoices?"
+  },
+  {
+    "id": "T-015",
+    "customer_id": "C-6015",
+    "message": "How do I export last quarter as a CSV report?"
+  },
+  {
+    "id": "T-016",
+    "customer_id": "C-6016",
+    "message": "I forgot my password. How do I reset it?"
+  },
+  {
+    "id": "T-017",
+    "customer_id": "C-6017",
+    "message": "What are the API rate limits? We just saw a 429."
+  },
+  {
+    "id": "T-018",
+    "customer_id": "C-6018",
+    "message": "Can I upgrade to the Business plan today?"
+  },
+  {
+    "id": "T-019",
+    "customer_id": "C-6019",
+    "message": "I was charged twice this month. Please refund the duplicate $60 charge."
+  },
+  {
+    "id": "T-020",
+    "customer_id": "C-6020",
+    "message": "How do I export last quarter as a CSV report?"
+  },
+  {
+    "id": "T-021",
+    "customer_id": "C-6021",
+    "message": "I forgot my password. How do I reset it?"
+  },
+  {
+    "id": "T-022",
+    "customer_id": "C-6022",
+    "message": "What are the API rate limits? We just saw a 429."
+  },
+  {
+    "id": "T-023",
+    "customer_id": "C-6023",
+    "message": "Can I upgrade to the Business plan today?"
+  },
+  {
+    "id": "T-024",
+    "customer_id": "C-6024",
+    "message": "How do I change the address on our invoices?"
+  },
+  {
+    "id": "T-025",
+    "customer_id": "C-6025",
+    "message": "How do I export last quarter as a CSV report?"
+  },
+  {
+    "id": "T-026",
+    "customer_id": "C-6026",
+    "message": "I forgot my password. How do I reset it?"
+  },
+  {
+    "id": "T-027",
+    "customer_id": "C-6027",
+    "message": "What are the API rate limits? We just saw a 429."
+  },
+  {
+    "id": "T-028",
+    "customer_id": "C-6028",
+    "message": "I was charged twice this month. Please refund the duplicate $30 charge."
+  },
+  {
+    "id": "T-029",
+    "customer_id": "C-6029",
+    "message": "How do I change the address on our invoices?"
+  },
+  {
+    "id": "T-030",
+    "customer_id": "C-6030",
+    "message": "How do I export last quarter as a CSV report?"
+  },
+  {
+    "id": "T-031",
+    "customer_id": "C-6031",
+    "message": "I forgot my password. How do I reset it?"
+  },
+  {
+    "id": "T-032",
+    "customer_id": "C-6032",
+    "message": "What are the API rate limits? We just saw a 429."
+  },
+  {
+    "id": "T-033",
+    "customer_id": "C-6033",
+    "message": "Can I upgrade to the Business plan today?"
+  },
+  {
+    "id": "T-034",
+    "customer_id": "C-6034",
+    "message": "How do I change the address on our invoices?"
+  },
+  {
+    "id": "T-035",
+    "customer_id": "C-6035",
+    "message": "How do I export last quarter as a CSV report?"
+  },
+  {
+    "id": "T-036",
+    "customer_id": "C-6036",
+    "message": "I forgot my password. How do I reset it?"
+  },
+  {
+    "id": "T-037",
+    "customer_id": "C-6037",
+    "message": "I was charged twice this month. Please refund the duplicate $40 charge."
+  },
+  {
+    "id": "T-038",
+    "customer_id": "C-6038",
+    "message": "Can I upgrade to the Business plan today?"
+  },
+  {
+    "id": "T-039",
+    "customer_id": "C-6039",
+    "message": "How do I change the address on our invoices?"
+  },
+  {
+    "id": "T-040",
+    "customer_id": "C-6040",
+    "message": "How do I export last quarter as a CSV report?"
+  },
+  {
+    "id": "T-041",
+    "customer_id": "C-6041",
+    "message": "I forgot my password. How do I reset it?"
+  },
+  {
+    "id": "T-042",
+    "customer_id": "C-6042",
+    "message": "What are the API rate limits? We just saw a 429."
+  },
+  {
+    "id": "T-043",
+    "customer_id": "C-6043",
+    "message": "Can I upgrade to the Business plan today?"
+  },
+  {
+    "id": "T-044",
+    "customer_id": "C-6044",
+    "message": "How do I change the address on our invoices?"
+  },
+  {
+    "id": "T-045",
+    "customer_id": "C-6045",
+    "message": "How do I export last quarter as a CSV report?"
+  },
+  {
+    "id": "T-046",
+    "customer_id": "C-6046",
+    "message": "I forgot my password. How do I reset it?"
+  },
+  {
+    "id": "T-047",
+    "customer_id": "C-6047",
+    "message": "What are the API rate limits? We just saw a 429."
+  },
+  {
+    "id": "T-048",
+    "customer_id": "C-6048",
+    "message": "Can I upgrade to the Business plan today?"
+  },
+  {
+    "id": "T-049",
+    "customer_id": "C-6049",
+    "message": "How do I change the address on our invoices?"
+  },
+  {
+    "id": "T-050",
+    "customer_id": "C-6050",
+    "message": "How do I export last quarter as a CSV report?"
+  }
+]

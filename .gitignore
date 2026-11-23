@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Secrets: keys belong in environment variables, never in the repo
+.env
+
+# Things the exercises create
+*.log
+logs/
+outbox/
+ledger.jsonl
+modules/capstone/report.md
